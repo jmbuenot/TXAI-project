@@ -1,0 +1,7 @@
+Goodreads Books 100K - EDA Summary
+
+Number of ratings: 299076418
+Number of unique users: None
+Number of unique books: 99999
+Max possible user–book pairs: None
+Approximate matrix sparsity: None

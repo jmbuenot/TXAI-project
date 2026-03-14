@@ -1,0 +1,21 @@
+rank,title,author,rating,predicted_rating,personalised_score,genre_match,length_adjustment,totalratings,primary_genre,pages
+1,Das zweite KÃ¶nigreich,Rebecca GablÃ©,4.4,4.114244,5.434243984222412,4.3999999999999995,0.0,1584,Historical,879
+2,Het verdriet van BelgiÃ«,Hugo Claus,3.64,4.3151703,5.365170288085937,3.4999999999999996,0.0,2886,Fiction,774
+3,WiedÅºmin,Andrzej Sapkowski,4.68,4.518151,5.298150806427002,2.5999999999999996,0.0,2916,Fantasy,2530
+4,Der KÃ¶nig der purpurnen Stadt,Rebecca GablÃ©,4.39,4.1663,5.216299819946289,3.5,0.0,1256,Historical,960
+5,"Morgen, Findus, wird's was geben",Sven Nordqvist,4.46,4.092319,5.202319011688232,3.6999999999999997,0.0,648,Holiday,128
+6,Das Spiel der KÃ¶nige,Rebecca GablÃ©,4.41,4.3469124,5.186912384033203,2.8,0.0,1421,Historical,1196
+7,De ensamma,HÃ¥kan Nesser,3.74,3.866082,5.186081953048706,4.3999999999999995,0.0,984,Mystery,582
+8,Comet in Moominland,"Tove Jansson,Elizabeth Portch",4.2,4.0739994,5.183999404907226,3.6999999999999997,0.0,14516,Fantasy,192
+9,The Knight Templar,Jan Guillou,4.14,4.115367,5.16536693572998,3.5,0.0,5317,Historical,467
+10,The World's Best Karlson,"Astrid Lindgren,Ilon Wikland,Patricia Crampton",4.06,4.0525985,5.1625984764099115,3.6999999999999997,0.0,1465,Childrens,0
+11,Die HÃ¼ter der Rose,Rebecca GablÃ©,4.48,4.311551,5.151551094055176,2.8,0.0,1679,Historical,1113
+12,MissÃ¤ kuljimme kerran,"Kjell WestÃ¶,Katriina Savolainen",3.95,4.025112,5.135112152099609,3.6999999999999997,0.0,2355,Fiction,589
+13,Der Grosse Ploetz: Die Chronik Zur Weltgeschichte,&. Ruprecht Vandenhoeck,5.0,4.8488007,5.118800659179687,0.9,0.0,1,History,829
+14,When the Robbers Came to Cardamom Town,ThorbjÃ¸rn Egner,4.08,4.005985,5.115984783172607,3.6999999999999997,0.0,1041,Childrens,139
+15,Viskleken,Arne Dahl,3.66,3.7882452,5.10824520111084,4.3999999999999995,0.0,688,Mystery,504
+16,Studs Lonigan,"James T. Farrell,Pete Hamill",3.82,4.3167067,5.096706657409668,2.6,0.0,2230,Fiction,988
+17,Hurskas kurjuus,Frans Emil SillanpÃ¤Ã¤,3.37,3.7670107,5.087010688781739,4.3999999999999995,0.0,383,European Literature,245
+18,"The Sea, The Sea","Iris Murdoch,Mary Kinzie",3.93,4.018974,5.06897382736206,3.5,0.0,17089,Fiction,528
+19,TÃ¤Ã¤llÃ¤ PohjantÃ¤hden alla 1â€“3,VÃ¤inÃ¶ Linna,4.53,4.283902,5.063902168273926,2.5999999999999996,0.0,1637,Classics,1046
+20,Der dunkle Thron,"Rebecca GablÃ©,JÃ¼rgen Speh",4.23,4.2236733,5.063673343658447,2.8,0.0,1073,Historical,960

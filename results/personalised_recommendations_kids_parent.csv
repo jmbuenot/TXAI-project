@@ -1,0 +1,21 @@
+rank,title,author,rating,predicted_rating,personalised_score,genre_match,length_adjustment,totalratings,primary_genre,pages
+1,Mr. Putter & Tabby Paint the Porch,"Cynthia Rylant,Arthur Howard",4.34,4.079615,6.329615116119386,7.4,0.3,626,Childrens,44
+2,Catwings,"Ursula K. Le Guin,S.D. Schindler",4.1,4.1263084,6.31630844116211,7.2,0.3,7729,Fantasy,40
+3,Jane on Her Own,"Ursula K. Le Guin,S.D. Schindler",4.19,4.0974245,6.287424507141114,7.2,0.3,1598,Fantasy,48
+4,Wild Whale Watch,"Eva Moore,Ted Enik,Joanna Cole,Bruce Degen,John Speirs",4.31,4.239084,6.279083766937256,6.7,0.3,1898,Science,75
+5,Wiggle,"Doreen Cronin,Scott Menchin",3.85,4.0128307,6.20283073425293,7.2,0.3,1584,Childrens,40
+6,Puppies in the Pantry,"Ben M. Baglio,Shelagh McNicholas",3.83,4.0443487,6.14434871673584,6.9,0.3,1467,Animals,144
+7,First the Egg,Laura Vaccaro Seeger,4.08,4.1845627,6.134562683105469,6.4,0.3,5239,Childrens,28
+8,Mr. Putter & Tabby Pour the Tea,"Cynthia Rylant,Arthur Howard",4.33,4.1678004,6.1178004264831545,6.4,0.3,1714,Childrens,44
+9,The Blue Roan Child,Jamieson Findlay,4.0,4.05897,6.108969974517822,6.8,0.1,488,Fantasy,253
+10,Odd Duck,"Cecil Castellucci,Sara Varon",4.01,4.1856666,6.075666561126709,6.2,0.3,4643,Sequential Art,96
+11,The Black Stallion's Shadow,Steven Farley,4.23,4.177462,6.067462100982666,6.2,0.3,4823,Animals,192
+12,Henry and Mudge in the Green Time,"Cynthia Rylant,SuÃ§ie Stevenson",4.05,4.1162405,6.066240501403809,6.4,0.3,706,Childrens,48
+13,Zorro Gets an Outfit,Carter Goodrich,4.16,4.1123443,6.062344264984131,6.4,0.3,1112,Childrens,48
+14,Henry and Mudge and the Forever Sea,"Cynthia Rylant,SuÃ§ie Stevenson",4.0,4.0963693,6.04636926651001,6.4,0.3,684,Childrens,48
+15,Goldie,Ellen Miles,4.2,4.0949917,6.044991683959961,6.4,0.3,2425,Animals,80
+16,The Stray Dog,Marc Simont,4.02,4.0883474,6.038347434997559,6.4,0.3,3088,Childrens,32
+17,Billy and Blaze: A Boy and His Pony,C.W. Anderson,4.25,4.1441264,6.034126415252685,6.2,0.3,2863,Childrens,56
+18,RRRalph,Lois Ehlert,3.9,4.082473,6.032472801208496,6.4,0.3,1223,Childrens,40
+19,Beyond the Code,"Erin Hunter,James L. Barry,Dan Jolley",4.27,4.4095955,6.029595489501953,5.3,0.3,1951,Sequential Art,89
+20,Lulu Walks the Dogs,"Judith Viorst,Lane Smith",4.02,4.07884,6.028839778900147,6.4,0.3,1595,Humor,160

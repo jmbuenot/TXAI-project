@@ -1,0 +1,21 @@
+rank,title,author,rating,predicted_rating,personalised_score,genre_match,length_adjustment,totalratings,primary_genre,pages
+1,Saturday's Child,Betty Neels,4.07,3.8696868,6.329686841964722,8.1,0.3,658,Romance,216
+2,Harden,Diana Palmer,4.05,3.8747346,6.27473464012146,7.9,0.3,1509,Romance,161
+3,C.J.'s Fate,Kay Hooper,3.6,3.8438637,6.243863725662232,7.900000000000001,0.3,1033,Romance,224
+4,The Heartbreak Sheriff,Elle Kennedy,3.54,3.821613,6.221613073348999,7.900000000000001,0.3,333,Romance,224
+5,Mackenzie's Pleasure,Linda Howard,4.13,4.01227,6.112269973754883,6.900000000000001,0.3,5675,Romance,248
+6,Gambler's Woman,"Stephanie James,Jayne Ann Krentz",3.29,3.6939285,6.093928480148316,7.9,0.3,682,Romance,0
+7,Cinderman,Anne Stuart,3.75,3.776193,6.056192903518677,7.500000000000001,0.3,371,Romance,248
+8,Considering Kate,Nora Roberts,3.99,3.9539964,6.033996419906616,6.9,0.1,11323,Romance,256
+9,Night of the Phantom,Anne Stuart,3.63,3.6341677,6.014167671203613,7.900000000000001,0.1,429,Romance,256
+10,The Italian Boss's Mistress,Lynne Graham,3.61,3.6312633,6.001263256072998,7.800000000000001,0.3,722,Category Romance,187
+11,Treat Her Right,Lori Foster,3.88,3.8993165,5.999316549301148,6.9,0.3,850,Romance,224
+12,Once a Cowboy,Linda Warren,3.5,3.865234,5.965233898162842,6.9,0.3,3240,Romance,246
+13,Regan's Pride,Diana Palmer,4.0,3.8527846,5.952784633636475,6.9,0.3,1420,Romance,192
+14,Gone Country,Lorelei James,4.3,4.1128583,5.942858295440674,6.1000000000000005,0.0,5723,Romance,498
+15,Calhoun,Diana Palmer,3.95,3.8357933,5.935793256759644,6.9,0.3,2076,Romance,187
+16,The Surgeon's Surprise Twins,Jacqueline Diamond,3.64,3.8110251,5.911025142669678,6.9,0.3,253,Romance,224
+17,The Temporary Mrs. King,Maureen Child,3.84,3.8027449,5.902744865417481,6.9,0.3,282,Romance,0
+18,The Specialist,Rhonda Nelson,3.99,3.9124591,5.892459135055542,6.5,0.3,487,Romance,242
+19,Love With The Proper Stranger,Suzanne Brockmann,3.71,3.801624,5.881624059677124,6.9,0.1,611,Romance,251
+20,Ready for King's Seduction,Maureen Child,3.71,3.7756946,5.875694608688355,6.9,0.3,273,Romance,0

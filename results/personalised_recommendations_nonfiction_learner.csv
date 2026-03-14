@@ -1,0 +1,21 @@
+rank,title,author,rating,predicted_rating,personalised_score,genre_match,length_adjustment,totalratings,primary_genre,pages
+1,The Empire of the Steppes: A History of Central Asia,"RenÃ© Grousset,Naomi Walford",4.07,4.0994787,6.0494787216186525,6.4,0.3,280,History,718
+2,The Oxford Illustrated History of Prehistoric Europe,Barry Cunliffe,4.0,4.131711,5.94171100616455,6.0,0.1,165,History,568
+3,Sweetness and Power: The Place of Sugar in Modern History,Sidney W. Mintz,3.79,3.9603539,5.820353851318359,6.2,0.0,2186,History,274
+4,History of Photography: From 1839 to the Present,Beaumont Newhall,4.2,4.0870852,5.737085247039795,5.5,0.0,416,Art,320
+5,Greek Art and Archaeology,John Griffiths Pedley,4.01,4.103152,5.733151798248291,5.3999999999999995,0.1,370,Art,384
+6,Methods and Theories of Art History,Anne D'Alleva,3.94,3.9530127,5.673012704849244,5.8,-0.2,324,Art,192
+7,A History of Britain: At the Edge of the World? 3500 BC-AD 1603,Simon Schama,4.07,4.011004,5.671003971099854,5.5,0.1,3019,History,416
+8,A History of Ancient Britain,Neil Oliver,4.17,3.9142067,5.574206743240357,5.5,0.1,929,History,396
+9,The Celts,Gerhard Herm,3.66,3.9147928,5.564792776107788,5.5,0.0,389,History,312
+10,"Britain after Rome: The Fall and Rise, 400 to 1070",Robin Fleming,4.01,3.901925,5.561925086975098,5.5,0.1,351,History,458
+11,The Maya (Ancient Peoples & Places),Michael D. Coe,3.88,4.0254674,5.555467395782471,5.1000000000000005,0.0,1150,History,256
+12,Peter the Great: His Life and World,Robert K. Massie,4.09,4.1432447,5.553244743347168,4.6,0.3,19010,History,909
+13,"On Justice, Power and Human Nature: Selections from The History of the Peloponnesian War","Thucydides,Paul Woodruff",3.74,4.0079374,5.54793743133545,5.2,-0.2,721,History,172
+14,"Governing the World: The Rise and Fall of an Idea, 1815 to the Present",Mark Mazower,3.8,3.93934,5.5393401145935055,5.3,0.1,411,History,475
+15,Vikings,Neil Oliver,3.85,3.8840663,5.5340663433074955,5.5,0.0,1256,History,261
+16,The History of the Renaissance World: From the Rediscovery of Aristotle to the Conquest of Constantinople,Susan Wise Bauer,4.13,4.1236553,5.533655319213867,4.6,0.3,845,History,785
+17,The Russian Revolution,"Richard Pipes,Bernhard H. Wagner",4.01,4.1204033,5.530403289794922,4.6,0.3,642,History,976
+18,The Internet-Linked Encyclopedia of World History,"Jane Bingham,Sam Taplin,Fiona Chandler",4.24,4.1559954,5.515995368957519,4.5,0.1,691,History,416
+19,A History of Modern Russia: From Nicholas II to Vladimir Putin,Robert Service,3.97,4.1010456,5.511045608520508,4.6,0.3,611,History,659
+20,Archaeologists Dig for Clues,Kate Duke,4.03,4.176722,5.506722049713135,4.5,-0.2,858,Science,32

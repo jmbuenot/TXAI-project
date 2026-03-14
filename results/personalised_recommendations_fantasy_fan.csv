@@ -1,0 +1,21 @@
+rank,title,author,rating,predicted_rating,personalised_score,genre_match,length_adjustment,totalratings,primary_genre,pages
+1,Cast in Peril,"Michelle Sagara,Michelle Sagara West",4.24,4.0595217,6.349521675109862,7.6,0.1,6131,Fantasy,538
+2,Dark Frost,Jennifer Estep,4.1,4.1516,6.311599884033203,7.199999999999999,0.0,19105,Young Adult,336
+3,The Immortal Crown,Richelle Mead,4.29,4.007556,6.237555961608887,7.4,0.1,8093,Fantasy,432
+4,Frost,Wendy Delsol,3.65,3.8764224,6.22642240524292,7.799999999999999,0.1,1342,Young Adult,384
+5,Billow,Emma Raveling,4.17,4.049172,6.219171924591064,7.199999999999999,0.1,1839,Fantasy,358
+6,Cast in Sorrow,Michelle Sagara,4.19,4.08477,6.194770202636718,7.0,0.1,5260,Fantasy,480
+7,Smokeless Fire,Samantha Young,3.89,4.0092506,6.1792506408691406,7.199999999999999,0.1,7794,Fantasy,358
+8,Last Kiss Goodnight,Gena Showalter,3.85,4.1223693,6.172369289398193,6.8,0.1,7832,Romance,436
+9,Illusion,Sherrilyn Kenyon,4.4,4.178092,6.168092002868652,6.6,0.1,11290,Young Adult,416
+10,Struck,Jennifer Bosworth,3.68,3.9486163,6.14861626625061,7.300000000000001,0.1,8381,Young Adult,373
+11,ExtraNormal,"Suze Reese,Suzanne V. Reese",3.58,3.7733123,6.143312330245972,7.9,0.0,482,Young Adult,253
+12,Inferno,Sherrilyn Kenyon,4.35,4.152432,6.142431964874267,6.6,0.1,14375,Young Adult,451
+13,And Eternity,Piers Anthony,3.86,4.061943,6.141943054199219,6.9,0.1,12069,Fantasy,378
+14,The Key,Marianne Curley,4.15,4.011599,6.1215990638732904,7.0,0.1,5383,Fantasy,416
+15,The Final Eclipse,Lynne Ewing,4.02,3.9594662,6.119466218948364,7.199999999999999,0.0,2439,Young Adult,265
+16,"Soul Eater, Vol. 18","Atsushi Ohkubo,Atsushi Ohkubo",4.3,4.3045144,6.114514408111573,6.1,-0.2,1254,Sequential Art,181
+17,Crimson Frost,Jennifer Estep,4.15,4.1195083,6.109508266448974,6.6,0.1,15598,Young Adult,354
+18,Whill of Agora,Michael James Ploof,3.8,4.104895,6.094895114898681,6.6,0.1,2059,Fantasy,570
+19,Opposition,Jennifer L. Armentrout,4.36,4.1617856,6.09178560256958,6.4,0.1,70690,Young Adult,533
+20,Sweet Shadows,Tera Lynn Childs,4.06,3.9281979,6.088197860717774,7.199999999999999,0.0,5034,Fantasy,328
